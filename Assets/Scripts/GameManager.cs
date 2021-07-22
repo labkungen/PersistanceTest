@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
 
     public string playerName;
 
-    public int[] highscores = {0,0,0};
+    public int[] highscores = {5,10,20};
     public string[] highscoreNames = {"STILL", "NOT", "TAKEN"};
 
     private void Awake()
